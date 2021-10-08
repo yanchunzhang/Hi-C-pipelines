@@ -1,1 +1,1 @@
-# Hi-C-pipelines
+# Hi-C pipelines
